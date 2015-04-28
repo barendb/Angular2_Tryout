@@ -10,6 +10,9 @@ import {testrest} from './testrest';
 @View({
     template: `
         <h1>{{ name }}</h1>
+        <p>
+        Dies ist ein Test
+        </p>
     `
 })
 class TestClass{
