@@ -11,7 +11,7 @@ import {testrest} from './testrest';
     template: `
         <h1>{{ name }}</h1>
         <p>
-        Dies ist ein Test
+        Dies ist ein Test!
         </p>
     `
 })
